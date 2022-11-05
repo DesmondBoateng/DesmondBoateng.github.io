@@ -9,14 +9,14 @@ description: > My name is Desmond Kofi Boateng. I am a math lover and this is my
 # Your information
 email: desmond.boateng@aims.ac.rw
 author: McBrainy
-avatar: "https://github.com/DesmondBoateng/DesmondBoateng.github.io/blob/gh-pages/profile.jpeg"
+avatar: "https://github.com/DesmondBoateng/DesmondBoateng.github.io/blob/gh-pages/profile.jpeg?raw=true"
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
   Email: "mailto:desmond.boateng@aims.ac.rw"
   GitHub: "https://github.com/DesmondBoateng"
-  LinkedIn: "https://www.linkedin.com/in/desmond-kofi-boateng-89b0bb143/?raw=true"
+  LinkedIn: "https://www.linkedin.com/in/desmond-kofi-boateng-89b0bb143/"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
